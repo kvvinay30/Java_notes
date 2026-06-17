@@ -6,4 +6,6 @@ class Employee {
     char b='A';
     String c="Hello";
 
+    int r=7;
+
 }
